@@ -55,6 +55,8 @@ public class Test implements A, B{
 	
 	public static void main(String[] args) {
 		
+		System.out.println("Hello World");
+		
 		A test = new Test();
 		
 		test.m2();
