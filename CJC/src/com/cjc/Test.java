@@ -66,6 +66,7 @@ public class Test implements A, B{
 		A.m3();
 		B.m3();
 	    
+		System.out.println("Hello world");
 		
 	}
 
